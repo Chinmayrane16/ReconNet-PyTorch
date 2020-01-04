@@ -49,7 +49,7 @@ Following is the structure of Adaptive ReconNet taken from the paper [Adaptive m
 </pre>
 
 ## Future Scope
-The paper suggests use of off-the-shelf denoiser (BM3D) on the intermediate reconstruction to improve the image's quality. I have not implemented the denoising part, if you want to add the implementaion of BM3D to this repository, feel free to submit a pull request. :smiley:
+The paper suggests use of off-the-shelf denoiser (BM3D) on the intermediate reconstruction to improve the image's quality. I have not implemented the denoising part, if you want to add the implementation of BM3D to this repository, feel free to submit a pull request. :smiley:
 
 ## References
 [ReconNet paper](https://arxiv.org/pdf/1601.06892.pdf)<br>
