@@ -23,10 +23,10 @@ A small number of random linear projections of original signal are measured (les
 
 Following is the architecture of ReconNet taken from its paper.
 <p align="center">
-  <img width="800" height="200" src="https://github.com/Chinmayrane16/ReconNet/blob/master/images/reconnet.png">
+  <img width="1000" height="200" src="https://github.com/Chinmayrane16/ReconNet/blob/master/images/reconnet.png">
 </p>
 
-Following is a structure of ReconNet taken from the paper [Adaptive measurement network for CS image reconstruction.](https://link.springer.com/chapter/10.1007/978-981-10-7302-1_34)
+Following is the structure of Adaptive ReconNet taken from the paper [Adaptive measurement network for CS image reconstruction.](https://link.springer.com/chapter/10.1007/978-981-10-7302-1_34)
 <p align="center">
   <img width="600" height="300" src="https://github.com/Chinmayrane16/ReconNet/blob/master/images/AdaptiveRconNet.gif">
 </p>
