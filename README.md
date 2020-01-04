@@ -10,7 +10,7 @@ This repository is an implementation of the research paper ReconNet.
 
 ## ReconNet
 
-The paper introduces a non-iterative and an extremely fast image reconstruction algorithm from the compressively sensed random measurements. The authors proposed a CNN architecture which outputs intermediate reconstruction, which is further passsed through a denoiser to further improve the reconstruction. This algorithm is suitable when the task is to identify the major contents in the image. It tries to acquire very few measurements and still is able to reconstruct the image preserving the property of the scene. Moreover, it is computationally inexpensive due to it's non-iterative nature and can be introduced in resource-constrained environments.<br>
+The paper introduces a non-iterative and an extremely fast image reconstruction algorithm from the compressively sensed random measurements. The authors proposed a CNN architecture which outputs intermediate reconstruction, which is further passsed through a denoiser to further improve the reconstruction. This algorithm is suitable when the task is to identify the major contents in the image. It tries to acquire very few measurements and is still able to reconstruct the image preserving the property of the scene. Moreover, it is computationally inexpensive due to it's non-iterative nature and can be introduced in resource-constrained environments.<br>
 The following image is taken from the research paper.
 <p align="center">
   <img width="800" height="400" src="https://github.com/Chinmayrane16/ReconNet/blob/master/images/image_reconstruction.png">
