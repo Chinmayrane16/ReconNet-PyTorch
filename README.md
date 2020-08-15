@@ -45,7 +45,7 @@ Following is the structure of Adaptive ReconNet taken from the paper [Adaptive m
     <img src="images/sample_result.png" alt><br>
 </p>
 <pre>
-                            Input Image                                    Reconstructed Image
+                                Input Image                                    Reconstructed Image
 </pre>
 
 ## Future Scope
