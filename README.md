@@ -40,13 +40,12 @@ Following is the structure of Adaptive ReconNet taken from the paper [Adaptive m
 * [CUDA](https://developer.nvidia.com/cuda-zone) (recommended version >= 8.0)
 
 ## Sample Results
-<p align="center">
-    <img src="images/test_sample.png" alt hspace=60>
-    <img src="images/sample_result.png" alt><br>
-</p>
-<pre>
-                                Input Image                                    Reconstructed Image
-</pre>
+
+Original Image             |  Reconstructed Image
+:-------------------------:|:-------------------------:
+![Test Image 1](images/test_sample.png)  |  ![Test Image 4](images/sample_result.png)
+
+
 
 ## Future Scope
 The paper suggests use of off-the-shelf denoiser (BM3D) on the intermediate reconstruction to improve the image's quality. I have not implemented the denoising part, if you want to add the implementation of BM3D to this repository, feel free to submit a pull request. :smiley:
